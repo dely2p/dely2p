@@ -4,6 +4,7 @@
   "description": "<!-- **dely2p/dely2p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
   "main": "readmeUpdate.js",
   "start": "node readmeUpdate.js",
+  "type": "module",
   "scripts": {
     "test": "node readmeUpdate.js"
   },
