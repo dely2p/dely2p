@@ -1,0 +1,16 @@
+{
+  "name": "dely2p",
+  "version": "1.0.0",
+  "description": "<!-- **dely2p/dely2p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "readmeUpdate.js",
+  "start": "node readmeUpdate.js",
+  "scripts": {
+    "test": "node readmeUpdate.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
