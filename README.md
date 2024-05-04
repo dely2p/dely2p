@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**dely2p/dely2p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 이런 환경에 익숙해요✍🏼
 
-Here are some ideas to get you started:
+## 언어
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img alt="" src= "https://img.shields.io/badge/Swift-DC6241?style=flat-square&logo=Swift&logoColor=white"/>
+</p>
+
+## Contact me
+
+## 📕 Latest Blog Posts
+
+<a href=https://dely.tistory.com/202>테스트</a></br><a href=https://dely.tistory.com/201>TCA Binding</a></br><a href=https://dely.tistory.com/200>TCA Toast</a></br><a href=https://dely.tistory.com/199>TCA 1.0 The Basic</a></br><a href=https://dely.tistory.com/198>N2T 설정하기</a></br>
