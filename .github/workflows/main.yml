@@ -28,6 +28,6 @@ jobs:
         run: |
           git add .
           git config --local user.email "lhyal2p@gmail.com"
-          git config --local user.name "dely"
+          git config --local user.name "dely2p"
           git commit -m "Update README.md"
           git push
