@@ -44,7 +44,7 @@ const parser = new Parser({
     // README.md 파일 작성
     writeFileSync('README.md', text, 'utf8', (e) => {
         console.log(e)
-    })
+    });
 
     console.log('업데이트 완료')
-})
+})();
