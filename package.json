@@ -6,7 +6,7 @@
   "start": "node readmeUpdate.js",
   "type": "module",
   "scripts": {
-    "test": "node readmeUpdate.js"
+    "test": "node readmeUpdate.js",
     "start": "node readmeUpdate.js"
   },
   "keywords": [],
