@@ -12,4 +12,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://dely.tistory.com/202>테스트</a></br><a href=https://dely.tistory.com/201>TCA Binding</a></br><a href=https://dely.tistory.com/200>TCA Toast</a></br><a href=https://dely.tistory.com/199>TCA 1.0 The Basic</a></br><a href=https://dely.tistory.com/198>N2T 설정하기</a></br>
+<a href=https://dely.tistory.com/201>TCA Binding</a></br><a href=https://dely.tistory.com/200>TCA Toast</a></br><a href=https://dely.tistory.com/199>TCA 1.0 The Basic</a></br><a href=https://dely.tistory.com/198>N2T 설정하기</a></br><a href=https://dely.tistory.com/162>Chapter 01. 영상 처리 개요</a></br>
