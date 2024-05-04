@@ -9,6 +9,10 @@
     "test": "node readmeUpdate.js",
     "start": "node readmeUpdate.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dely2p/dely2p.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
